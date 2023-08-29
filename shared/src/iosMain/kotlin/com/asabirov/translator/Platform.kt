@@ -1,4 +1,4 @@
-package com.plcoding.translator_kmm
+package com.asabirov.translator
 
 import platform.UIKit.UIDevice
 

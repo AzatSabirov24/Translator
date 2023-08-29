@@ -1,4 +1,4 @@
-package com.plcoding.translator_kmm.android
+package com.asabirov.translator.android
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -16,7 +16,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.plcoding.translator_kmm.Greeting
+import com.asabirov.translator.Greeting
 
 @Composable
 fun MyApplicationTheme(
