@@ -82,3 +82,10 @@ android {
         targetSdk = 33
     }
 }
+
+sqldelight {
+    database("TranslateDatabase") {
+        packageName = "com.asabirov.translator.database"
+        sourceFolders = listOf("sqldelight")
+    }
+}
